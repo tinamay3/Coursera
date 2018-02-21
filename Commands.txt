@@ -1,0 +1,9 @@
+# Coursera Course 
+# The Data Scientist’s Toolbox
+# Creating a Github repository - commands
+
+        # make folder on local drive and copy online repository contents
+mkdir Coursera
+cd Coursera
+git init
+git remote add origin https://github.com/tinamay3/Coursera.git
